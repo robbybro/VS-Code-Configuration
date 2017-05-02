@@ -1,4 +1,7 @@
 {
     "workbench.iconTheme": "material-icon-theme",
-    "editor.rulers": [80]
+    "workbench.editor.enablePreview": false,
+    "editor.rulers": [
+        80
+    ]
 }

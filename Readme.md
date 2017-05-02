@@ -16,3 +16,6 @@
 * Sublime Text Keymap
 * Trailing Spaces
 * TSLint
+* Align
+* npm Intellisense
+* Sort Lines
