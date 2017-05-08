@@ -19,3 +19,4 @@
 * Align
 * npm Intellisense
 * Sort Lines
+* C/C++
