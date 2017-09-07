@@ -1,23 +1,23 @@
 {
+    "editor.rulers": [80],
+    "explorer.sortOrder": "type",
+    "prettier.javascriptEnable": [],
+    "prettier.singleQuote": true,
+    "prettier.tabWidth": 4,
+    "prettier.trailingComma": "all",
+    "python.linting.flake8Enabled": true,
+    "python.linting.flake8Path": "/usr/local/bin/flake8",
+    "python.linting.pylintArgs": ["--load-plugins", "flake8"],
     "terminal.integrated.fontFamily": "Anonymice Powerline.ttf",
     "terminal.integrated.setLocaleVariables": false,
-    "workbench.editor.enablePreview": false,
-    "editor.rulers": [80],
     "window.zoomLevel": 1,
-    "typescript.check.tscVersion": false,
-    "python.linting.flake8Path": "/usr/local/bin/flake8",
-    "python.linting.flake8Enabled": true,
-    "python.linting.pylintArgs": ["--load-plugins", "flake8"],
+    "workbench.editor.enablePreview": false,
     "[cpp]": {
         "editor.quickSuggestions": false
     },
     "[c]": {
         "editor.quickSuggestions": false
     },
-    "prettier.singleQuote": true,
-    "prettier.trailingComma": "all",
-    "prettier.tabWidth": 4,
-    "prettier.javascriptEnable": [],
     "[typescript]": {
         "editor.formatOnSave": true
     }
