@@ -12,13 +12,7 @@
     "terminal.integrated.setLocaleVariables": false,
     "window.zoomLevel": 1,
     "workbench.editor.enablePreview": false,
-    "[cpp]": {
-        "editor.quickSuggestions": false
-    },
-    "[c]": {
-        "editor.quickSuggestions": false
-    },
-    "[typescript]": {
-        "editor.formatOnSave": true
-    }
+    "[typescript]": {
+        "editor.formatOnSave": true
+    }
 }
