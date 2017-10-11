@@ -1,4 +1,7 @@
 {
+    "terminal.integrated.setLocaleVariables": true,
+    "terminal.integrated.fontFamily": "Inconsolata-dz for Powerline",
+    "workbench.editor.enablePreview": false,
     "editor.rulers": [80],
     "explorer.sortOrder": "type",
     "prettier.javascriptEnable": [],
@@ -8,10 +11,7 @@
     "python.linting.flake8Enabled": true,
     "python.linting.flake8Path": "/usr/local/bin/flake8",
     "python.linting.pylintArgs": ["--load-plugins", "flake8"],
-    "terminal.integrated.fontFamily": "Anonymice Powerline.ttf",
-    "terminal.integrated.setLocaleVariables": false,
     "window.zoomLevel": 1,
-    "workbench.editor.enablePreview": false,
     "[typescript]": {
         "editor.formatOnSave": true
     }
