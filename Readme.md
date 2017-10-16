@@ -1,3 +1,6 @@
+# [DEPRECATED]
+*I've started using [VS Code Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) for longer term back up, but this is a good place to start if you don't want the setup overhead or just want quickly to tweak a couple of things.*
+
 # My VS Code Settings
 
 ## Clone to `~/.config/Code/User`
